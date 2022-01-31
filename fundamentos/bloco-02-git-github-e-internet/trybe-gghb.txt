@@ -5,3 +5,5 @@ O que eu vou aprender na trybe:
 -bash
 -git
 
+html
+css
